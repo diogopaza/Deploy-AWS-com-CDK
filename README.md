@@ -1,6 +1,6 @@
 <h1>Usando o AWS CDK</h1>
 
-<p><a href="https://docs.aws.amazon.com/pt_br/cdk/v2/guide/ecs_example.html">Documentacao AWS com deste estudo.</a></p>
+<p><a href="https://docs.aws.amazon.com/pt_br/cdk/v2/guide/ecs_example.html">Documentacao AWS com exemplo deste estudo.</a></p>
 <ul>
 <li><strong>aws --version</strong> verificar a versao do cli da aws instalada;</li>
 <li><strong>aws configure</strong> configurar a credencial para conseguir fazer o deploy;</li>
