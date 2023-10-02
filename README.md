@@ -8,10 +8,10 @@
 <li><strong>cdk --version</strong> verificar a versao do CDK;</li>
 </ul>
 
-<h2>Criar projeto CDK com JAVA<h2>
+<h2>Criar projeto CDK com JAVA</h2>
 <ul>
 <li><strong>cdk init app --language java</strong> cria projeto CDK com Java;</li>
-<li><strong>cdk bootstrap aws://idUsuario/regiao</strong> define uma regiao</li>
-<li><strong>cdk list</strong> identifica as stack do projeto</li>
-<li><strong>cdk deploy </strong> identifica as stack do projeto</li>
+<li><strong>cdk bootstrap aws://idUsuario/regiao</strong> define uma regiao;</li>
+<li><strong>cdk list</strong> identifica as stack do projeto;</li>
+<li><strong>cdk deploy </strong> faz o deploy das stack na AWS pode-se usar o nome da stack ou o argumento --all para deploiar todas as stacks;</li>
 </ul>
