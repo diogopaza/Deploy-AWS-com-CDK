@@ -5,6 +5,8 @@
 <li><strong>aws --version</strong> verificar a versao do cli da aws instalada;</li>
 <li><strong>aws configure</strong> configurar a credencial para conseguir fazer o deploy;</li>
 <li><strong>cdk --version</strong> verificar a versao do CDK;</li>
+<li><strong>aws eks --region sa-east-1 describe-cluster --name kubernetes-lab --query cluster.status
+</strong> comando exemplo para verificar o status de um cluster Kubernetes;</li>
 </ul>
 
 <h2>Criar projeto CDK com JAVA</h2>
